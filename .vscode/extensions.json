@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "fudge.auto-using",
+        "ms-dotnettools.csharp",
+        "jorgeserrano.vscode-csharp-snippets"
+    ]
+}
